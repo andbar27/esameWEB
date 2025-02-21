@@ -13,6 +13,7 @@ Apri due terminali:
 
  - Secondo Terminale:
 	cd cieloWEB
+	npm install
 	npm run dev
 	
 	
