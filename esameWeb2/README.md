@@ -36,7 +36,7 @@ Nell'HomePage del sito si trovano tre tasti:
 In Responso e numero righe sono stampati rispettivamente il messaggio con l'esito dell'operazione e il numero di righe della tabella.
 
  - Query lettura e query scrittura:
- 	Permettono di leggere e scrivere direttamente dal database con delle query sql, in caso di scrittura le tabelle saranno parametriche al numero di colonne restituite dal db.
+ 	Permettono di leggere e scrivere direttamente dal database con delle query sql, in caso di lettura le tabelle saranno parametriche al numero di colonne restituite dal db.
  	E' possibile anche scrivere il database, inserendo nuove entry con le query di scrittura.
  	*ATTENZIONE: QUESTA VERSIONE DEMO DEL PROGRAMMA NON AVENDO ACCESSO AL DATABASE NON PERMETTE L'UTILIZZO DI QUESTE DUE FUNZIONI!*
 
